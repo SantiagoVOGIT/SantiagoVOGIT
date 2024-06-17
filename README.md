@@ -12,6 +12,8 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
+ [Pulsa aquí para ver la versión en español](https://github.com/SantiagoVOGIT/SantiagoVOGIT/blob/main/README.es.md)
+
 ## 🔷 Technologies: 
 
 - **Java SE** / **Junit**
