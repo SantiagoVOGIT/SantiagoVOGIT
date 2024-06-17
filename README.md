@@ -39,11 +39,11 @@
 - **Company**: [Seguros Sura](https://www.linkedin.com/company/sura-seguros/mycompany/) (January 2024 - Present)
   
   - **Position**: Backend Developer
-  - **Location**: Medellín, Antioquia, Colombi
+  - **Location**: Medellín, Antioquia, Colombia
 
 ## 📋 Projects:
 
-- Cooming soon...
+- At the moment, I have a [small project in Obsidian](https://github.com/SantiagoVOGIT/obsidian-vault) where I store all my knowledge.
 
 ## 🎓 Education:
 
@@ -58,21 +58,3 @@
 - My favorite language is Java, but I'm interested in learning Go.
 - JavaScript and Vim? No thanks, I'll pass on that mess.
 - I prefer working on the backend, but every now and then I can spruce up a button on the frontend and make it pop.
-
-
-
-
-<!--
-**SantiagoVOGIT/SantiagoVOGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
