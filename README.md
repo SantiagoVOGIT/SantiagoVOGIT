@@ -1,14 +1,28 @@
 # Santiago Valencia / Backend Developer
 
-| <img width="55" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> | <img width="50" height="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring-logo"/> | <img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/> | <img width="50" height="50" src="https://img.icons8.com/color/48/docker.png" alt="docker"/> | <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/> |
-| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
 ## 🔷 Technologies: 
 
 - **Java SE** / **Junit**
 - **Spring Framework** / **SpringBoot**
-- **PostgreSQL**
+- **SQL / MySQL / PostgreSQL**
 - **Docker**
-- **Git** 
+- **HTML5**
+- **Git**
+- **GitHub Actions**
+- **Postman**
+   
 ## 🔷 Hard skills:
 
 - **Algorithms**
@@ -18,9 +32,35 @@
 - **Functional Programming**
 - **Reactive programming**
 - **Scrum / Kanban** 
-- **GitFlow / GitHub Flow / Trunk-Based Development**
+- **GitFlow / GitHub Flow / Trunk-Based Development / Conventional Commits**
 
-<sup>Icons by <a href="https://icons8.com">Icons8</a></sup>
+## 💼  Work experience:
+
+- **Company**: [Seguros Sura](https://www.linkedin.com/company/sura-seguros/mycompany/) (January 2024 - Present)
+  
+  - **Position**: Backend Developer
+  - **Location**: Medellín, Antioquia, Colombi
+
+## 📋 Projects:
+
+- Cooming soon...
+
+## 🎓 Education:
+
+- **Certification**: Software Engineering
+  
+  - **Degree**: Technical 
+  - **Institution**: [Cesde](https://www.linkedin.com/company/cesde-formaci%C3%B3n-t%C3%A9cnica/) **(July 2023 - Present)**
+  - **Location**: Medellín, Antioquia, Colombia
+
+## ⚡Fun facts:
+
+- My favorite language is Java, but I'm interested in learning Go.
+- JavaScript and Vim? No thanks, I'll pass on that mess.
+- I prefer working on the backend, but every now and then I can spruce up a button on the frontend and make it pop.
+
+
+
 
 <!--
 **SantiagoVOGIT/SantiagoVOGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
