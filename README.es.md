@@ -23,7 +23,7 @@
 - **GitHub Actions**
 - **Postman**
    
-## 🔷 Hard skills:
+## 🔷 Habilidades técnicas:
 
 - **Algoritmos**/
 - **Estructuras de datos**
@@ -34,7 +34,7 @@
 - **Scrum / Kanban** 
 - **GitFlow / GitHub Flow / Trunk-Based Development / Conventional Commits**
 
-## 💼  Experiencia laboral:
+## 💼 Experiencia laboral:
 
 - **Compañía**: [Seguros Sura](https://www.linkedin.com/company/sura-seguros/mycompany/) (Enero 2024 - Actualidad)
   
@@ -44,9 +44,9 @@
 ## 📋 Proyectos:
 
 - Actualmente de manera pública, solo cuento con este [pequeño proyecto en Obsidian](https://github.com/SantiagoVOGIT/obsidian-vault)
-donde guardo todo mi conocimiento en forma de documentación, pero me encuentro desarrollando más proyectos.
+donde guardo todo mi conocimiento en forma de documentación, no obstante, me encuentro desarrollando más proyectos.
 
-## 🎓 Education:
+## 🎓 Educación:
 
 - **Certificación**: Desarrollador de Software 
   
@@ -54,8 +54,8 @@ donde guardo todo mi conocimiento en forma de documentación, pero me encuentro 
   - **Instituciín**: [Cesde](https://www.linkedin.com/company/cesde-formaci%C3%B3n-t%C3%A9cnica/) **(Julio 2023 - Actualidad)**
   - **Ubicación**: Medellín, Antioquia, Colombia
 
-## ⚡Fun facts:
+## ⚡Datos curiosos sobre mí:
 
 - Mi lenguaje favotiro es Java, pero estoy interesado en Go.
-- ¿Javascript y Vim?, emmh, los prefiero lejitos.
-- Tengo preferencia por el Backend, pero puedo llegar a centrar un div.
+- ¿Javascript y Vim?, emmh, los prefiero de lejitos.
+- Tengo preferencia por el Backend, pero puedo llegar a centrar un div si es necesario.
