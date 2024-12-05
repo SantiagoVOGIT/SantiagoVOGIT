@@ -1,6 +1,5 @@
 # Santiago Valencia / Backend Developer
 
-
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" />
@@ -15,35 +14,10 @@
 
 [Pulsa aquí para ver la versión en español](https://github.com/SantiagoVOGIT/SantiagoVOGIT/blob/main/README.es.md)
 
-
-| 🔷 Technologies:                               | 🔷 Hard skills:                                                            |
-| ---------------------------------------------- | -------------------------------------------------------------------------- |
-| **Java SE / Junit**                            | **Algorithms**                                                             |
-| **SpringBoot / Spring Framework / Spring JPA** | **Data structures**                                                        |
-| **SQL / MySQL / PostgreSQL**                   | **Design patterns**                                                        |
-| **Docker**                                     | **Object-Oriented Programming (OOP)** / **Functional Programming**         |
-| **HTML5**                                      | **MVC / Hexagonal Architecture**                                           |
-| **Git**                                        | **Scrum / Kanban**                                                         |
-| **Postman**                                    | **GitFlow / GitHub Flow / Trunk-Based Development / Conventional Commits** |
-
-## 💼  Work experience:
-
-- **Company**: [Seguros Sura](https://www.linkedin.com/company/sura-seguros/mycompany/) (January 2024 - Present)
-
-    - **Position**: Backend Developer
-    - **Location**: Medellín, Antioquia, Colombia
-
 ## 📋 Projects:
 
+- [An http client for making requests in Typescript](https://github.com/SantiagoVOGIT/carwashmetro-backend)
 - [A REST API of a car wash system built in Spring](https://github.com/SantiagoVOGIT/carwashmetro-backend)
-
-## 🎓 Education:
-
-- **Certification**: Software Engineering
-
-    - **Degree**: Technical
-    - **Institution**: [Cesde](https://www.linkedin.com/company/cesde-formaci%C3%B3n-t%C3%A9cnica/) **(July 2023 - Present)**
-    - **Location**: Medellín, Antioquia, Colombia
 
 ## ⚡Fun facts:
 
